@@ -3,6 +3,16 @@
 A **Retrieval-Augmented Generation (RAG)** based Streamlit application that allows users to upload PDF documents (research papers) and ask questions.  
 The system retrieves the most relevant document chunks using **FAISS vector similarity search** and generates accurate, context-aware answers using an **LLM**.
 
+## 📸 Screenshots
+### 📤 Rag QA Bot with Document Upload 
+![PDF Upload](Rag QA Bot With Document Upload.png)
+
+###  Rag QA Bot with Directory in System
+![Question Answering](screenshots/qa_demo.png)
+
+### 🔍 Simple QA Bot
+![Retrieved Context](screenshots/retrieved_context.png)
+
 ## 🚀 Features
 
 - 📤 Upload PDF documents
