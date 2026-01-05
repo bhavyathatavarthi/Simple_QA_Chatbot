@@ -2,3 +2,17 @@ langchain
 python-dotenv
 langchain_community
 streamlit
+pypdf
+arxiv
+bs4
+pymupdf
+wikipedia
+langchain-text-splitters
+chromadb
+sentence-transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+duckdb
+pandas
+langchain_groq
