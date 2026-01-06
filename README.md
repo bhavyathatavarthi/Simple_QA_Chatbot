@@ -4,7 +4,7 @@ A Streamlit-based Retrieval-Augmented Generation (RAG) application that enables 
 
 ## 📸 Screenshots
 I have uploaded the screenshots of the other 3 chat bots above here is the modified chat bot 
-[chatBot](bot.png)
+![Bot Screenshot](bot.png)
 
 ## 🚀 Features
 
