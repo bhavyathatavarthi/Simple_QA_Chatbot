@@ -1,21 +1,20 @@
-# 📄 RAG Document Q&A Bot (Streamlit + LangChain)
+# 📄 Conversational RAG Document Q&A Bot With Chat History (Streamlit + LangChain)
 
-A **Retrieval-Augmented Generation (RAG)** based Streamlit application that allows users to upload PDF documents (research papers) and ask questions.  
-The system retrieves the most relevant document chunks using **FAISS vector similarity search** and generates accurate, context-aware answers using an **LLM**.
+A Streamlit-based Retrieval-Augmented Generation (RAG) application that enables users to upload PDF documents and interact with them through conversational Q&A. The system uses semantic search over embedded document chunks and an LLM to generate accurate, context-aware responses with persistent chat history.
 
 ## 📸 Screenshots
-I have uploaded the screenshots of the 3 chat bots above 
+I have uploaded the screenshots of the other 3 chat bots above here is the modified chat bot 
+[chatBot]()
 
 ## 🚀 Features
 
-- 📤 Upload PDF documents
-- 📚 Automatic document chunking
-- 🔍 Semantic search using FAISS
-- 🤖 Context-aware answers using RAG
-- ⚡ Fast responses using session caching
-- 🧠 No reprocessing for multiple questions
-- 🔎 View retrieved context chunks
-- 🌐 Interactive UI using Streamlit
+- 📚 Automatic document chunking and embedding generation
+- 🔍 Semantic search over documents using Chroma vector database
+- 🤖 Context-aware question answering using Retrieval-Augmented Generation (RAG)
+- 🧠 History-aware question reformulation for better follow-up answers
+- ⚡ Fast responses with session-based chat memory
+- 🔎 View retrieved context chunks and chat history for debugging
+- 🌐 Interactive web UI built using Streamlit
 
 ## 🛠️ Tech Stack
 
